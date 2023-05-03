@@ -1,0 +1,328 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Promoting Supplier Diversity in Higher Education:
+Barriers and Opportunities
+
+
+
+
+
+
+Lab for Inclusive Entrepreneurship
+College of Professional Studies, Northeastern University
+By Carl Zangerl, Francesca Grippa, Youngbok Ryu, Salu Singh
+March 2022
+ 
+About the Lab for Inclusive Entrepreneurship
+The Northeastern Lab for Inclusive Entrepreneurship provides in-depth technical and managerial assistance to small businesses, with a focus on enterprises owned by socially and economically disadvantaged entrepreneurs. The mission of Lab is to contribute to economic development by promoting inclusive, equitable innovation and entrepreneurship by helping small businesses address their technical and managerial challenges. The Lab offers inclusive entrepreneurship fellowships for small business owners to attend virtual educational programming and business guidance.
+
+
+
+
+
+ACKNOWLEDGMENTS
+The Lab for Inclusive Entrepreneurship would like to thank Northeastern University's Office of Diversity, Equity and Inclusion, and the College of Professional Studies, for their generous support of this project. The views, findings, and conclusions expressed here are those of the authors alone and do not necessarily reflect the views of the Office or the College.
+ 
+Introduction
+“Simply put, the opportunity exists to affect economic disparities through engagement with minority- owned businesses and to spread the equity in wealth and opportunity for entrepreneurs who represent the various demographics in the communities in which our campuses are located.” Clyde Wilson Pickett, Senior Diversity Officer for the Minnesota State Colleges and Universities system.
+Selling products and services to colleges and universities is a big business. In 2018-19, degree-granting postsecondary institutions in the United States spent $632 billion (in current dollars). Total expenses were
+$401 billion at public institutions, $219 billion at private nonprofit institutions, and $12 billion at private for-profit institutions (National Center for Education).
+Yet, even though many institutions have made a commitment to supplier diversity, a tiny percentage of contracts are awarded to minority- and women-owned business enterprises (MWBEs). A WBGH report in 2020 noted that “out of nearly 700 active contracts awarded by a big college purchasing co-op in Massachusetts, only 14 — or 2 percent — went to minority-owned businesses certified by the state.”
+Why do diverse business owners, especially in under-served communities, feel so frustrated by higher education procurement policies? What makes it difficult for them to navigate procurement procedures? What skills and knowledge would enable them to compete more effectively for contracts?
+To help answer these questions, a faculty team from Northeastern University’s College of Professional Studies received a grant from the university’s Office of Diversity, Equity, and Inclusion to study procurement practices in higher education, with a focus on New England. Another goal of the project was to support President Joseph Aoun’s call to action on behalf of the Northeastern University community:
+We will deepen community service and expand service learning in the neighborhoods surrounding all of our campuses. In doing so, we will strengthen the ties between our community engagement programs and our academic programs. We will also increase procurement from businesses that are designated as women- and minority-owned, with a special emphasis on Black-owned businesses at our U.S. campuses. Our goal over the next five years will be to double the total value of those contracts from the last five years.
+
+ 
+ 
+
+
+Over the past four months, the project team has reviewed procurement best practices, interviewed procurement staff at several institutions, including colleges, universities and large private companies, and conducted a large survey among diverse businesses. For colleges and universities committed to promoting supplier diversity, a key starting point is to understand the perceptions of small diverse businesses. How do they view the procurement process? What do they consider barriers and impediments? And, most importantly, what do they think it will take to help them increase their share of higher education contracts for goods and services?
+In the context of this report, we explore the perspective of Small Business Enterprises (SBEs), Local Businesses, and businesses located in economically distressed areas such as the Historically Underutilized Business Zones (HUBZone). We include under the category “diverse businesses” the following enterprises: Minority Business Enterprises (MBEs), Women Business Enterprises (WBEs), Service-Disabled Veteran Business Enterprises (SDVOBEs), Veteran Business Enterprises (VBEs), Lesbian, Gay, Bisexual, and Transgender Business Enterprises (LGBTBEs), and Disability-Owned Business Enterprises (DOBEs).
+
+This report summarizes the survey findings, explores in some detail the perceptions of the respondents, including some steps to promote supplier diversity in higher education. And while the survey focused on diverse businesses in New England, we believe the findings apply to the higher education procurement process nationwide.
+ 
+Key Findings	
+Based on the survey results and conversations with small business owners collected in Fall 2021, these are the key findings:	
+►	Despite a commitment to increasing supplier diversity expressed by many colleges and universities, the percentage of business done with diverse small businesses remains very small.	
+►	While research indicates that large vendors account for most higher education expenditures, diverse businesses tend to be small. In our survey sample (359 companies), 58% of the respondents had 10 or fewer employees and 84% had 50 or fewer employees.	
+►	Diverse small businesses cite a lack of awareness of specific bid and contract opportunities as the top barrier to doing business with colleges and universities, followed by a lack of relationships with existing vendors, which limits the ability to be subcontractors on request for proposals (RFPs).
+
+►	Because many diverse businesses are small, they lack the staff to actively seek out supplier opportunities; conversely, many colleges and university procurement offices have limited outreach to underserved community business networks.	
+Colleges and universities need to make minority contracting a priority, implementing strategies to broaden the range of bidders.
+►	Diverse small businesses believe they can compete more effectively for business if they learn more about the bidding process, make connections with existing vendors, and gain access to training and skill development.	
+►	Procurement offices in higher education institutions can more effectively promote supplier diversity by establishing one point of contact for diverse small businesses, providing clear guidance on the RFP and bidding process, and more aggressively reaching out to under-represented communities.	
+►	For their part, diverse small businesses recognize the need to prepare more effectively to compete for business, build stronger networks, and more generally strengthen their own business practices.	
+
+ 
+Methodology
+The project team conducted a survey of vendors doing business with Higher Education Institutions between 10/26/2021 and 12/17/2021. Out of the 4447 companies contacted, we had complete data for 359 respondents from 15 different industries. The list of companies was compiled based on 5 different data sources (see Table 1).
+Table 1. Data sources for the Supplier Diversity survey.
+
+Database	Description
+Massachusetts Supplier Diversity Office (SDO) directory	This dataset includes about 3,400 businesses that were registered with the MA SDO for their diverse certification.
+The Greater Boston Chamber of Commerce’s Pacesetters program	The dataset includes about 100 minority-owned businesses that are interested in being suppliers to other organizations.
+Small Business Innovation Research (SBIR) awards data	This dataset includes about 280 Massachusetts-based small businesses that won the SBIR awards.
+Northeastern University Procurement Database	The last dataset includes about 5,000 businesses that have made supply contracts with Northeastern University. Only 617 companies contained contact info.
+Other contacts via Northeastern University stakeholders	Shared by Northeastern University’s Procurement Office and the Center for Research Innovation.
+
+Figure 1 shows the location of survey respondents. While they are located across the United States, most of them are concentrated in Massachusetts, particularly in the greater Boston area.
+Figure 1. Location of respondents.
+
+ 
+Most respondents were small: 58% of respondents had 1-10 employees and 26% between 11 and 50 employees (see Figure 2).
+Figure 2. Number of employees.
+
+
+
+Out of the 359 respondents, 239 self-identified as women-owned businesses, 198 as small businesses, and 161 as minority-owned. Only 14 of them identified as located in HUB zones, 13 as veteran-owned and 10 as LGBTQ-owned enterprises (see Figure 3). Most of the participants reported to be certified by the Massachusetts Supplier Diversity Office (276), or through SBA or Local Governments (see Appendix). While most of the respondents identified themselves as women-owned, only 52 of them were certified by the Women’s Business Enterprise National Council.
+
+
+Figure 3. Distribution of different types of diverse businesses.
+
+ 
+While participants represented a wide range of sectors (see Figure 4), the majority were in “Professional, Scientific, and Technical Services”, “Construction” and “Marketing, Advertising and Communication”.
+Figure 4. Distribution of industries represented in the survey.
+
+
+
+About two-third of respondents indicated that they have been in business for more than 11 years. About one-fifth of businesses have operated for 4-10 years. Startups who were less than a year in business accounted for only 1% of the respondents.
+Figure 5. Number of years in business.
+
+ 
+Supplier Diversity in Higher Education: US Trends
+Despite public commitments by the leadership of many colleges and universities, supplier diversity is more of an aspiration than a reality in higher education. A 2019 survey of supplier diversity professionals across all industries indicate the following as primary drivers of supplier diversity programs: corporate social responsibility, alignment with corporate culture and workforce inclusiveness, customer requirements and government compliance.
+While university procurement organizations are beginning to engage in strategic supplier initiatives, a tension exists between the focus on efficiency and cost reduction and the small size of many diverse businesses. A 2021 study conducted on behalf of the National Association of Educational Procurement (NAEP) about the top priorities and initiatives for members indicate a trend towards consolidation of vendor relationships. While the most referenced service offered by procurement offices was around “Supplier Diversity” (58.44% of respondents), the focal areas for the future were identified as: revenue generation, cost savings, resource allocation, and mitigation of supply chain disruption.
+The Emerging Initiatives Committee of NAEP collected data on the top priorities and initiatives for members in 2022 and beyond. The survey consisted of twelve questions and was distributed to all NAEP members, receiving 125 responses. The emerging issues reported as the most important over the next 2-3 years by procurement offices were: Business Process Transformation, Building Strong Teams, Contracting & Risk Management, Financial Resource Management. Diversity, Equity, and Inclusion ranked six on the list of priorities. “There is a balance to be struck between supporting (and being seen to support) these types of businesses, and the costs of doing so” (NAEP).
+Similarly, a benchmarking of procurement practices in Higher Education shows that the focus has been on managing spend and driving efficiency through purchasing strategies that leverage spend with fewer vendors while cultivating closer relationships with these suppliers.
+Spikes Cavell Analytic Inc. conducted an analysis of 42 higher education institutions and their annual expenditures was over $72 million with external vendors in 2013. The study found that an average Higher Ed institution reports 91.41% of spend with the top 20% of vendors, while managing relationships with an additional 1,000 separate vendors with whom they spend less than 10% of the annual total (known as “long tail”). Procurement teams are likely to have the most information about their top 20% of vendors, while information about the “long tail” is likely limited or of variable quality.
+These studies highlight a common tension between institutional goals of “efficiency and cost reduction” and increasing the number of suppliers to embrace diversity, inclusion and community development. While there is no correct proportion of spend that should go towards contracts with diverse small businesses, procurement teams are encouraged to collect and monitor over time the right information to set a proportion that is aligned with the goals of each institution.
+Higher education institutions need to find a balance between efficiency/cost reduction and equity/supplier diversity.
+ 
+Perceived Barriers to Doing Business with Colleges and Universities in New England
+Why is it so hard for colleges and universities to expand their contracting with minority-owned businesses? Perhaps a more revealing question is this: Why do small diverse businesses think it is so hard to win contracts with higher education institutions? The survey we conducted in this study asked small diverse businesses about their major perceived barriers to doing business with institutions of higher education. Most respondents identified more than one barrier, as Figure 6 shows.
+
+Figure 6. Major barriers in doing business with higher education institutions.
+
+
+Lack of Awareness and Difficulty in Navigating a Complex Process
+A lack of awareness of available opportunities topped the list of major barriers. For many small diverse businesses, the higher education procurement process is something of a black box. In fact, 61% of respondents replied that they did not know how the process works. As one respondent commented, “I wasn't even aware there were efforts to promote supplier diversity but would love to learn more about this.” A related concern, expressed by several respondents, was the perceived complexity of the process, especially for small businesses with limited resources. One respondent summarized the situation this way:
+“Most small businesses are not equipped to navigate or handle the procurement process - the time and money that goes into crafting an RFP alone is something that most small businesses don't have. If [colleges and universities] want to work with more small businesses, you need to meet them where they are rather than assuming we will meet you where you are (as a large organization). Most small businesses don't have the knowledge to navigate the bureaucracy of a university's procurement system. That’s why we stopped submitting proposals – the win ratio is too low and takes away from other potential sales.”
+ 
+In many higher education institutions, moreover, procurement is decentralized across multiple units. This can be a bureaucratic hurdle for small diverse businesses. As one respondent put it, “there is no way to be in front of all the decision makers.” This feeling of not knowing whom to contact for specific types of RFP opportunities was a recurring theme.
+Frustration was expressed even when institutions sponsored networking events for small diverse businesses. As one respondent reported, “I have reached out to people…whom I met at diversity events many times and never got any business. Honestly it was a waste of my time. Often the people I met at these events said they would give me an opportunity to bid, but it never happened.”
+This perception of how difficult it is to navigate higher education bureaucracies means that for small businesses the RFP process is simply too time-consuming. As the survey sample shows, the vast majority of these businesses have fewer than 50 employees and, therefore, limited staff resources to explore bid opportunities and steer a proposal through the process.
+
+Existing Vendor Relationships Limit Small Business Opportunities
+Another recurring theme expressed by survey respondents is the difficulty in ‘breaking into’ an institution’s existing circle of vendors. Procurement teams, they feel, are reluctant to disrupt existing relationships – “they buy from the vendors they are comfortable doing business with,” as one respondent observed. Another noted that, “My experience has been that universities are reluctant to change vendors and when they do, they choose large-sized vendors.”
+This perceived preference of doing business with large vendors was mentioned by several respondents. An architectural firm owner, for example, commented that “universities and colleges have a tight knit group of architectural firms they typically work with. It is hard to get their attention to demonstrate we are more than capable to perform the same work.”
+A respondent from a marketing firm described the frustration this way: “We have built a portfolio of work done for higher ed clients nationwide, but it’s taken nearly ten years and we still consistently lose out to the same 3 or 4 firms who trade on the fact that they do the same work for almost every university. Most RFPs are structured to favor firms with the most competitive experience which disadvantages small businesses and limits the value universities can get from diversifying their offerings.”
+One small business owner provided a blow-by-blow account of the roadblocks:
+“The current process requires diverse small businesses to hunt for projects on all different web searches and when prime contractors are contacted directly, they do not respond. There is a constant disconnect. Also, many bids are posted to websites that require an expensive subscription service that is geared towards larger companies that can afford to pay, thus excluding diverse companies.
+[Public institution] bid documents are daunting and would require a small business to have a full- time staff just to prepare a bid. The bids are usually too large and do not allow for a small carve out that would be a better fit and allow for more participation by many smaller diverse companies. Most often the entire bid goes to one of the larger firms.”
+This respondent also noted that prime contractors often do not monitor whether their general contractors are seeking out diverse small subcontractors. This is another weak link in the effort to promote greater supplier diversity.
+ 
+The small diverse businesses’ perception that large vendors do the lion’s share of business with colleges and universities is, in fact, a reality.
+As shown in Figure 7, many survey respondents regarded higher education institutions as an attractive market along with the private sector (e.g., large businesses) and government entities (e.g., federal and state agencies). However, they perceived the procurement market of universities/colleges difficult to enter.
+Figure 7. Procurement market pursued by businesses.
+
+
+As noted earlier in this report, 91% of the spend in the 2013 NAEP analysis was with the top 20% of vendors. The preference for bundling business with a small group of large vendors reflects the pressure on procurement staff to manage costs and drive efficiency, especially in response to the Covid-19 pandemic. A National Association of Educational Procurement survey showed that budget management and financial sustainability were the top procurement priorities in 2021; “procurement is vital in maintaining financial sustainability and addressing budget deficits through spend management, strategic sourcing, and resource allocation.”
+This focus on spend management means that for higher education institutions committed to increasing supplier diversity “there is a balance to be struck between supporting (and being seen to support) these types of businesses, and the costs of doing so.” (Education Procurement Journal Spring 2021).
+As dozens of our survey respondents observed, in order to do business with colleges and universities, the current situation is very much out of balance.
+
+
+What Can Colleges and Universities Do to Promote Supplier Diversity?
+While many of our survey respondents expressed frustration with what they perceived as barriers to doing business with colleges and universities, they also shared ideas for change.
+In the survey, we asked what it would take to make it easier to do business with higher education institutions. The top responses fell into two categories (see Figure 8):
+ 
+•	Providing more information and clarity about the bidding process.
+•	Creating a single point of contact within procurement offices to build relationships with diverse suppliers.
+
+Figure 8. Improvements needed for the procurement process in higher education institutions.
+
+
+
+
+
+
+44	66	37	29	17	40
+
+85	47	32	15	43	11
+
+5	16	32	75	50	55
+
+20	14	66	45	52	36
+
+21	59	39	35	47	32
+
+58	31	27	34	24	59
+
+
+
+
+Note: Green = most helpful, Black = least helpful
+
+
+Building Awareness Through Greater Outreach
+One frequently mentioned suggestion was for colleges and universities to do more targeted outreach. As noted earlier, there appears to be an informational disconnect. Diverse suppliers, the vast majority of whom are small businesses with fewer than 50 employees, have difficulty learning about RFP opportunities. Small businesses, by definition, often do not have the staff or resources to actively solicit business. Diverse small suppliers believe that a proactive outreach can help them learn about RFP opportunities and decide which ones to pursue. Here are some concrete ideas from survey respondents:
+“Make an effort to reach out to small and diversity owned businesses and invite them to participate in the procurement process.”
+“Make clear what opportunities are available and keep it simple. By doing so, the possible vendor is able to better gauge their likelihood of winning the bid before committing limited resources.”
+“Send out all pertinent info to your supplier diversity list so we can register, look for bids, seek out opportunities. It is often difficult to establish a clear starting point in the process.”
+“Universities should maintain a list of pre-qualified firms to send RFPs to and require a percentage of businesses supplying services to be minority or women owned.”
+ 
+Explaining and Simplifying the RFP Process
+Small diverse suppliers in our survey frequently mentioned the complexity of the RFP process as a major barrier to doing business with colleges and universities. Procurement guidelines vary from institution to institution and within them as well. One survey respondent put it this way: “We don’t even attempt to bid for business because the process seems so daunting.”
+A real estate advisory firm respondent noted that “it’s hard to even know where to start in terms of relationship building and understanding what contracting opportunities might be available.” Another respondent commented: “Something needs to be published on the website…how to look for contracts, register as a supplier and/or other information would be helpful. A quick browse of the university website doesn't make the information easily available, as it is tailored for students and admissions. I am not even sure how I could do business…by looking through the website.”
+How can procurement organizations clarify and simplify the process? Survey respondents made the following suggestions:
+•	Maintain and update a procurement section on the institution’s website that clearly states the RFP process, requirements, and due dates.
+•	Develop video tutorials on how small diverse businesses can compete for business.
+•	Sponsor informational sessions and/or workshops.
+•	Streamline the paperwork and steps involved in completing an RFP.
+•	Provide examples of strong RFPs.
+
+Creating a Responsive Single Point of Contact
+In the view of diverse small business suppliers, the perceived complexity of the higher education procurement process is exacerbated by the decentralized nature of many procurement organizations. The difficulty in navigating a way through the “procurement bureaucracy” was a common complaint.
+As one respondent noted, “often there are different entities, positions, titles, contacts, and RFP templates and it makes it difficult to quickly contact the proper person for information.”
+As survey respondents reported, clearly identifying a single point of contact for procurement is at the top of the diverse suppliers’ wish list. A point of contact could act as a bridge across departments because, as one respondent noted, “there is no way for me to be in front of all the decision makers.”
+One respondent elaborated on how this single point of contact approach might work:
+“A supplier diversity contact is always good, if they are dedicated to help MBE's and SBE's. [That point of contact] could make it so minority businesses are already registered vendors (however you do that) with the university and are classified in the system as diversity owners. Next, if you have a competent (yes competent) contact who is very familiar with this specific vendor list (what they sell, what they do) they literally match-make between the businesses signed up to be diversity vendors and RFPs that come out. If that happened, the contact could help small businesses team up and apply together - even with other vendors. [This approach would not be] unfair to Male/White majority businesses.”
+ 
+Including Small Businesses in the Vendor Network
+Earlier in this report, we mentioned the tension between two competing goals for many higher education institutions and their procurement teams: on the one hand, there is a major focus on reducing cost and increasing efficiency in procurement practices; and on the other, there is a commitment to diversity, inclusion, and equity and building stronger ties with the local community and its small businesses.
+A common theme highlighted in the survey comments was the difficulty in breaking into a “closed” network of large suppliers who have long-standing relationships with procurement teams.
+To address this, one survey respondent called for a procurement model that “includes small businesses being able to contribute […] current practices utilize large companies that can lower costs. If universities want to be tied into local community, they have to make a decision that supports that.”
+“In my experience,” observed another respondent, “procurement officers provide some information and tell you who to contact for your particular service. But the conversation pretty much ends there. [They should be] less interested in procurement efficiencies, and more interested in actual opportunities that are fairly distributed, based on qualifications and experience, rather than the bottom-line cost.”
+A survey respondent at a small engineering consulting business painted this scenario: “We find it difficult to maintain relationships with larger architects since they may be on one project for a long time, but only need our services for a portion of their work. On the next project, a new architect is selected and we need to start all over with marketing our relationships, which is difficult for a small firm.”
+How can colleges and universities expand the network of suppliers to include diverse small businesses? Some of the ideas mentioned by respondents included the following:
+•	Inviting subcontractors for “meet and greets” to review the RFP process and build relationships.
+•	Organize vendor fairs and similar events to give diverse suppliers the opportunity to present their products, and then work together to find the best opportunity within the university system.
+•	Putting diverse business owners in contact with companies currently winning contracts to make the subcontracting process easier to navigate.
+•	Create one master list of all current contracts and companies awarded contracts with their contact information so smaller businesses can reach out and build relationships.
+ 
+Conclusion
+As made clear by the 2021 NAEP report, there is a “balance to be struck between supporting (and being seen to support) these types of businesses [i.e., small diverse suppliers], and the costs of doing so.” Finding this balance will be a key challenge for higher education institutions. To make minority contracting a priority, all levels of the organizations, not only the procurement teams, have to be truly committed to it. As our findings indicate, the small diverse suppliers in our survey sample believe that the current situation is critically out-of-balance. Colleges and universities need to make minority contracting a priority, implementing strategies to broaden the range of bidders. This may include building a record of successful diverse providers, training procurement teams on how to contact them, facilitating targeted networking opportunities, and developing an inclusive culture throughout the organization.
+Higher education institutions are not alone in this effort. Associations to support supplier diversity and local government play a crucial role in building relationships between buyers and vendors. For instance, the government of the City of Boston and the Greater Boston Chamber of Commerce have been holding contracting clinics for minority-owned businesses. As noted by Celina Barrios-Millner, Director of equity and inclusion for the City of Boston, “It's not just building the relationship, but preparing vendors to compete for opportunities”.
+And this is exactly an area where higher education institutions can provide support: educating small diverse suppliers on the process, helping them navigate a system that requires dedicated resources and various levels of complexity. The Northeastern Lab for Inclusive Entrepreneurship is well positioned to help meet this challenge by offering educational support and networking opportunities, by developing on-demand training materials for minority-led and women-owned business owners on such topics as resource planning and scheduling, sustainable sourcing, or procurement practices with higher education institutions, among others. In addition to educational materials, it is important to provide business owners with clear, practical ‘How to Do Business with the University’ information. This may help small diverse businesses prepare for federal procurement through the Small Business Administration's 8(a) certifications that place socioeconomically disadvantaged small businesses in the preferred position in the federal procurement process.	
+
+
+
+
+
+
+
+An ecosystem for supplier diversity needs to be built along with various stakeholders.
+
+ 
+Appendix
+Figure A1 shows ways for diverse businesses to find higher education institutions for business; Figure A2 lists third-party certifications.
+Figure A1. Ways to find universities/colleges for business.
+
+
+NETWORKING/UNIVERSITY EVENTS										156
+										
+EMAILS									119	
+										
+ONLINE SEARCH (E.G., GOOGLE SEARCH)								102		
+										
+LOCAL BUSINESS ASSOCIATIONS (E.G., CHAMBER OF COMMERCE)					84				
+										
+COLD CALLS				78						
+										
+OTHER			63	
+				
+REGISTRATION SITES	52			
+				
+OUTSIDE SALES	47			
+
+
+
+
+
+
+Figure A2. Third-party certifications.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Northeastern Lab for Inclusive Entrepreneurship © 2022
